@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: Payment system + Paystack 
-Plugin URI: http://www.osclass.org/
-Description: Payment system
+Plugin URI: https://paystack.com/
+Description: Payment system + Paystack Module
 Version: 1.0.0
-Author: OSClass
-Author URI: http://www.osclass.org/
-Short Name: payments
+Author: OSClass + Douglas Kendyson
+Author URI: https://github.com/Kendysond
+Short Name: Paystack
 */
 
     define('PAYMENT_CRYPT_KEY', 'Paystack-Douglas-Kendyson');
