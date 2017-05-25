@@ -1,0 +1,15 @@
+.payments-ul {
+    list-style-type:none;
+}
+.payments-ul li
+{
+    display: inline-block;
+}
+.payments-preview {
+    float:left;
+    width: 40%;
+}
+.payments-options {
+    float:left;
+    width: 60%;
+}
