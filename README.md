@@ -5,7 +5,7 @@
 
 Welcome to the OS Class Payment Plugin for Paystack repository on GitHub. 
 
-The **Payment Forms for Paystack** plugin allows merchants to create forms with multiple input fields where they can have customers pay before submission. It also works with recurring payments.
+The **OS Class Payment Plugin for Paystack** plugin allows merchants to add a payment option from Paystack to customers' checkout experience.
 
 Here you can browse the source, look at open issues and keep track of development. 
 
@@ -22,8 +22,6 @@ Here you can browse the source, look at open issues and keep track of developmen
 ## Support
 For bug reports and feature requests directly related to this plugin, please use the [issue tracker](https://github.com/PaystackHQ/plugin-OSClass/issues). 
 
-For questions related to using the plugin, please post an inquiry to the plugin [support forum](https://wordpress.org/support/plugin_OSClass/).
-
 For general support or questions about your Paystack account, you can reach out by sending a message from [our website](https://paystack.com/contact).
 
 ## Community
@@ -31,4 +29,4 @@ If you are a developer, please join our Developer Community on [Slack](https://s
 
 ## Contributing to Payment Forms for Paystack
 
-If you have a patch or have stumbled upon an issue with the Paystack OSClass Payment plugin, you can contribute this back to the code. Please read our [contributor guidelines](https://github.com/PaystackHQ/plugin-osclass/blob/master/CONTRIBUTING.md) for more information how you can do this.
+If you have a patch or have stumbled upon an issue with the Paystack OSClass Payment plugin, you can contribute this back to the code. Please read our [contributor guidelines](https://github.com/PaystackHQ/wordpress-payment-forms-for-paystack/blob/master/.github/CONTRIBUTING.md) for more information how you can do this.
