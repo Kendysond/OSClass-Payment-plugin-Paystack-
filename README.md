@@ -1,6 +1,3 @@
- 
-<p align="center"><a href="https://paystack.com/"><img src="https://raw.githubusercontent.com/PaystackHQ/wordpress-payment-forms-for-paystack/master/icon.png" alt="Payment Forms for Paystack"></a></p>
-
 # OS Class Payment Plugin for Paystack
 
 Welcome to the OS Class Payment Plugin for Paystack repository on GitHub. 
