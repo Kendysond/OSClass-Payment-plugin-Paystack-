@@ -29,4 +29,4 @@ If you are a developer, please join our Developer Community on [Slack](https://s
 
 ## Contributing to Payment Forms for Paystack
 
-If you have a patch or have stumbled upon an issue with the Paystack OSClass Payment plugin, you can contribute this back to the code. Please read our [contributor guidelines](https://github.com/PaystackHQ/wordpress-payment-forms-for-paystack/blob/master/.github/CONTRIBUTING.md) for more information how you can do this.
+If you have a patch or have stumbled upon an issue with the Paystack OSClass Payment plugin, you can contribute this back to the code. Please read our [contributor guidelines](https://github.com/PaystackHQ/plugin-osclass/blob/master/CONTRIBUTING.md) for more information how you can do this.
