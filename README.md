@@ -2,7 +2,7 @@
 
 Welcome to the OS Class Payment Plugin for Paystack repository on GitHub. 
 
- ## **Deprecation Notice**
+ ## :warning: **Deprecation Notice**
 
 We regret to inform you that the OS Class Payment Plugin for Paystack is now deprecated and will no longer be actively maintained or supported.
 
