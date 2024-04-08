@@ -12,7 +12,7 @@ We regret to inform you that the OS Class Payment Plugin for Paystack is now dep
 - Security vulnerabilities that cannot be addressed sufficiently.
 - Obsolete functionality that is no longer relevant
 
-To ensure a seamless experience, we recommend exploring the Paystack Integration Directory for [alternative plugins](https://osclass-classifieds.com/) that are actively maintained and supported.
+To ensure a seamless experience, we recommend exploring the Paystack Integrations Directory for [alternative plugins](https://osclass-classifieds.com/) that are actively maintained and supported.
 
 
 The **OS Class Payment Plugin for Paystack** plugin allows merchants to add a payment option from Paystack to customers' checkout experience.
